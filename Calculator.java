@@ -25,6 +25,7 @@ public class Calculator {
 
         //Prompt user for selection
         System.out.print("\nWhich operation do you want to perform? ");
+       // System.out.print
         menuSelect = scnr.nextInt();
 
         //Perform operation
